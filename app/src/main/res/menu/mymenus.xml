@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+/>
+    <item
+        android:title="profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        />
+
+    <item
+        android:title="Activity"
+        android:id="@+id/activity"
+        android:icon="@drawable/ic_baseline_access_time_filled_24"
+        />
+
+</menu>
